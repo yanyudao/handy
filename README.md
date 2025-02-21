@@ -1,5 +1,12 @@
 # handy
 Handy toolkit
 
-### How to get certificate of ldaps with python
-[go](python/get_ldap_cert.py)
+### How to get certificate of ldaps
+
+- python
+  > [get_ldap_cert.py](python/get_ldap_cert.py)
+
+- openssl
+  > [get_ldap_cert.bat](openssl/get_ldap_cert.bat)
+
+### 
