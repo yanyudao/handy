@@ -7,6 +7,6 @@ Handy toolkit
   > [get_ldap_cert.py](python/get_ldap_cert.py)
 
 - openssl
-  > [get_ldap_cert.bat](openssl/get_ldap_cert.bat)
+  > [get_ldap_cert.md](openssl/get_ldap_cert.md)
 
 ### 
